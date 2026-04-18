@@ -1,6 +1,8 @@
 # Fadaqa_project_A_on_GLOBAL_AI_and_DATA_SCIENCE_JOBB_
 Analyzing AI Data hiring trends (2020-2026) to identify salary and demand drivers
 
+![](FDQ_introductory.png)
+
 ## INTRODUCTION
 This was a task done to demonstrate mutual communication and satisfactory comprehension on a class study of an analytic tool. It’s a Gratitude statement to Both Fadaqa, Mr Sheriff Atanda, and of-course some of my Amazing Class Mates.
 
@@ -12,6 +14,8 @@ I will be focusing on the trends in changes surrounding the working Data Science
 
 ## VISUALIZATION  
 Integrated Excel Dashboard utilizing Pivot Tables and Slicers for real-time data filtering by Job Title and Year, Analyzing AI Data hiring trends (2020-2026) to identify salary and demand drivers.
+
+![](excel_dashboard_git.png)
 
 ## INSIGHTS
 Market Stability and Growth: The market showed consistent growth peaking in 2025 with 266 postings, followed by a slight normalization in 2026(213 postings). Total volume stands at 1,703 jobs with a healthy average salary of $99,646.
